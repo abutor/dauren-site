@@ -493,6 +493,7 @@ section {
 .about .video-box {
   background: url("../img/about.jpg") center center no-repeat;
   background-size: cover;
+  border-radius: 12px;
   min-height: 500px;
 }
 
